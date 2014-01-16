@@ -1,0 +1,17 @@
+{
+  "uuid": "c50080a8-799e-44d8-b040-c4df3edaadba",
+  "shortName": "JPTris",
+  "longName": "JP'Tris",
+  "companyName": "Jean-Paul Carmona",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
