@@ -2,6 +2,9 @@ pebble-jptris
 =============
 
 This is Tetris clone for pebble smart watch.
+
+<img src="https://dl.dropboxusercontent.com/u/2910062/jptris-pebble-screenshot_2014-01-19_15-51-05.png"/>
+
 The code is a fork of an old Borland Turbo-C source code for MS-DOS that I wrote in 1994 :-)
 
 Compilation
